@@ -53,3 +53,11 @@ address{
     transform: translateX(100%);
     transition: all 300ms ease-out;
 }
+
+.card-img, .card-img-bottom, .card-img-top {
+    height: 270px;
+}
+
+img.media-object {
+    width: 100px;
+}

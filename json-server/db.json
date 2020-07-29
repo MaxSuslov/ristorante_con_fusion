@@ -258,6 +258,8 @@
     },
     {
       "id": 1,
+      "name": "Carrot Man",
+      "image": "images/koch_carrots.png",
       "name": "Dhanasekaran Witherspoon",
       "image": "images/alberto.png",
       "designation": "Chief Food Officer",
@@ -267,6 +269,8 @@
     },
     {
       "id": 2,
+      "name": "Tiny Tiger",
+      "image": "images/koch_okidoki.png",
       "name": "Agumbe Tang",
       "image": "images/alberto.png",
       "designation": "Chief Taste Officer",
@@ -276,6 +280,8 @@
     },
     {
       "id": 3,
+      "name": "Alberto Burrito",
+      "image": "images/koch_ok_bart.png",
       "name": "Alberto Somayya",
       "image": "images/alberto.png",
       "designation": "Executive Chef",
