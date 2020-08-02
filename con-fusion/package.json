@@ -1,6 +1,6 @@
 {
-  "name": "confusion_react",
-  "version": "0.1.1",
+  "name": "ristorante_con_fusion",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",

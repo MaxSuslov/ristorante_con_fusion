@@ -48,7 +48,7 @@ class Contact extends Component {
                             Atlantic Ocean<br />
                             <i className="fa fa-phone"></i>: +852 1234 5678<br />
                             <i className="fa fa-fax"></i>: +852 8765 4321<br />
-                            <i className="fa fa-envelope"></i>: <a href="mailto:confusion@food.net">cookfusion@food.good</a>
+                            <i className="fa fa-envelope"></i>: <a href="mailto:cookfusion@food.good">cookfusion@food.good</a>
                         </address>
                     </div>
                     <div className="col-12 col-sm-6 offset-sm-1">
