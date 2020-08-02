@@ -43,17 +43,23 @@ class Contact extends Component {
                     <div className="col-12 col-sm-4 offset-sm-1">
                         <h5>Our Address</h5>
                         <address>
-                            121, Clear Water Bay Road<br />
-                            Clear Water Bay, Kowloon<br />
-                            HONG KONG<br />
+                            Cook Island<br />
+                            Florida 33043, USA<br />
+                            Atlantic Ocean<br />
                             <i className="fa fa-phone"></i>: +852 1234 5678<br />
                             <i className="fa fa-fax"></i>: +852 8765 4321<br />
-                            <i className="fa fa-envelope"></i>: <a href="mailto:confusion@food.net">confusion@food.net</a>
+                            <i className="fa fa-envelope"></i>: <a href="mailto:confusion@food.net">cookfusion@food.good</a>
                         </address>
                     </div>
                     <div className="col-12 col-sm-6 offset-sm-1">
                         <h5>Map of our Location</h5>
                         <div class="col-3">
+                        <iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6743.629640893671!2d-81.3774842378854!3d24.629680422884825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d102f25c2f5d93%3A0xbc70005beb2d72b4!2sCook%20Island!5e1!3m2!1sen!2sru!4v1596378089060!5m2!1sen!2sru'
+                                frameBorder='0'
+                                allow='autoplay; encrypted-media'
+                                allowFullScreen
+                                title='Cook Island'
+                        />
                         </div>
                     </div>
                     <div className="col-12 col-sm-11 offset-sm-1">
