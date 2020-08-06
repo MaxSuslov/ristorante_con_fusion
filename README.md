@@ -13,4 +13,4 @@ To run this project locally follow these steps:</p>
 <li> Enjoy!
 </ol>
 <p> Currently it's only possible to run this React app only on the local json-server to fetch the pictures and read/write to the database aka db.json </p>
-<p> If you find a way to deploy it on a normal hosting/VPS, please let me know per e-mail, I will really appreciate it! I already tried it with Heroku, but it seems that some dependencies are outdated. I didn't find any good method to run it online and would appreciate a working solution for deployment. </p>
+<p> If you find a way to deploy it on a normal hosting/VPS, please let me know per e-mail, I will really appreciate it! I already tried it with Heroku, but it seems that some dependencies are outdated. I didn't find any good method to run it online and would be very thankful for a working deployment solution. </p>
