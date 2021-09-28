@@ -3,6 +3,7 @@
 To run this project locally follow these steps:</p>
 <ol>
 <li> Download/clone the repository into an empty folder;
+<li> In console run "npm install -g json-server";
 <li> In console go to the folder "json-server" and execute the following command to run the local server: json-server --watch db.json -p 3001 -d 2000
 <li> Open another console window (or just do it in console of your IDE): go to the folder "con-fusion" and run there following commands (wait for each command to be completed before starting the next one):
 <ul>
